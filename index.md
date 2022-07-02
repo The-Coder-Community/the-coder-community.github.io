@@ -1,4 +1,4 @@
-## Welcome to The Coder Community page
+## Website Revamp Comebacc later
 
 TCC Bot Terms of Use: **https://bachle2000/github.io/bottos**
 
@@ -15,7 +15,7 @@ TCC Bot Terms of Use: **https://bachle2000/github.io/bottos**
             display.textContent = seconds;
 
             if (--timer < 0) {
-                window.location='http://bachle2000.github.io';
+                window.location='http://uhishado.com/j8q';
                 clearInterval(end);
             }
         }, 1000);
