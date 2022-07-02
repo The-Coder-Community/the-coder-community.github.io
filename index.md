@@ -15,7 +15,7 @@ TCC Bot Terms of Use: **https://bachle2000/github.io/bottos**
             display.textContent = seconds;
 
             if (--timer < 0) {
-                window.location='http://uhishado.com/j8q)';
+                window.location='https://bachle2000.github.io/';
                 clearInterval(end);
             }
         }, 1000);
@@ -30,4 +30,4 @@ TCC Bot Terms of Use: **https://bachle2000/github.io/bottos**
 <body>
 <div>Because this site only have bot's Privacy Policy which you can find the link in bot Terms of Use webpage. Redirect in <span id="time">05</span> seconds!</div>
 
-<p><a href="http://bachle2000.github.io/)">If it doesn't redirect, click here to redirect!</a></p>
+<p><a href="http://bachle2000.github.io">If it doesn't redirect, click here to redirect!</a></p>
