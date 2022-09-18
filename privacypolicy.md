@@ -1,3 +1,6 @@
+> We have been shut down our nuke bot service! Thanks for using our bot! 18/12/2022 - 18/09/2022
+> Also this Privacy Policy no longer support and apply to our user
+
 ## Chính sách bảo mật
 
 Những nội dung chúng tôi thu thập từ bot:
@@ -18,7 +21,7 @@ Nếu bạn không muốn bị thu thập những nội dung trên, vui lòng kh
 
 Bot áp dụng: Bot áp dụng: Security Premium#6824, Rick Roll#1279, Tàu con thoi Challenger#4588, ☭ Communist nuke Bot ☭#2227, Radioactive Bot#4912, Tiến Bịp Bot#6190, Project K001 Security#3841.
 
-Cập nhật vào : 25/2/2022
+Cập nhật vào : 18/09/2022
 
 ## Điều khoản sử dụng
 
