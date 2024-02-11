@@ -1,5 +1,6 @@
 > We have been shut down our nuke bot service! Thanks for using our bot! 18/12/2022 - 18/09/2022
 > Also this Privacy Policy no longer support and apply to our user
+> Our bot will comeback later!!!
 
 ## Chính sách bảo mật
 
